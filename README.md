@@ -1,4 +1,4 @@
-# ![Capa](https://github.com/giolimapro/giolimapro/blob/main/img/image.png)
+# ![Capa](https://github.com/Badgioo/Badgioo/blob/main/wall.jpg)
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:giolimapro@gmail.com)](mailto:giolimapro@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovanna-de-lima-silva)
